@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'b2c-basic-app';
+
+  login(){
+    alert("log me in");
+  }
+
+  signup(){
+    alert("Sign me up");
+  }
+
 }

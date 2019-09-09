@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
-It follows my blog on how to create a basic angular app in 5 minutes https://medium.com/@sambowenhughes/how-to-create-your-first-angular-6-application-in-less-than-5-minutes-7e72abb1e777
+It follows my blog on [how to create a basic angular app in 5 minutes](https://medium.com/@sambowenhughes/how-to-create-your-first-angular-6-application-in-less-than-5-minutes-7e72abb1e777)
 
 ## Development server
 
